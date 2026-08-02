@@ -1,0 +1,534 @@
+Sujeto,Análisis,Variable_X,Variable_Y,Ventana_Shift,Spearman_r,p_value,N_Muestras
+CGMacros-001,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.4894309447052315,1.2972301576903354e-58,954
+CGMacros-001,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8464237824745061,0.0,14647
+CGMacros-001,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.04226673689817103,0.023919178096671545,2855
+CGMacros-001,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.04431495168639344,0.7859924417675227,40
+CGMacros-001,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.01471620440627659,0.9272379683992877,41
+CGMacros-001,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.08504262804349516,0.6018456610341549,40
+CGMacros-001,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.04545866108882473,0.7777735442726339,41
+CGMacros-001,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.028250919432921892,0.13166694225077338,2849
+CGMacros-001,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.08776253140601988,0.5902326029305665,40
+CGMacros-001,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.07415193940749622,0.6449737908143123,41
+CGMacros-001,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.007997015169993429,0.9609396359807902,40
+CGMacros-001,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.19798327789011713,0.21466720910794318,41
+CGMacros-002,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6721730005598474,4.7289475189571945e-121,913
+CGMacros-002,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7863683589001264,0.0,14293
+CGMacros-002,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.011174473767168357,0.5592665536996708,2733
+CGMacros-002,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.14251845105875083,0.4213673171493333,34
+CGMacros-002,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.22861438354486902,0.18651639832977499,35
+CGMacros-002,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.27800884146039556,0.11138777621813617,34
+CGMacros-002,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,-0.020505698876954165,0.9069236815765052,35
+CGMacros-002,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.04288935400805266,0.025109418944786112,2727
+CGMacros-002,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.15586272974929566,0.3787341974691535,34
+CGMacros-002,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.022331548776956936,0.8986769513692614,35
+CGMacros-002,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.3044457351494354,0.08000882844624618,34
+CGMacros-002,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.23146158732342784,0.18094017423965847,35
+CGMacros-003,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6195095160596386,5.503714307321618e-102,952
+CGMacros-003,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7799974499598479,0.0,14486
+CGMacros-003,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.012617414797038215,0.5005953192986667,2852
+CGMacros-003,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.09157830770371132,0.6064832614549821,34
+CGMacros-003,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.22628087344195366,0.19117599099869012,35
+CGMacros-003,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.21655884768682115,0.21863191139578994,34
+CGMacros-003,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.3800844466380674,0.02430828392408858,35
+CGMacros-003,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.02213317911520478,0.2378471937061978,2846
+CGMacros-003,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3406406508309596,0.04868153011472691,34
+CGMacros-003,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.4983512411711866,0.002313022938723553,35
+CGMacros-003,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.39555741370017605,0.020583082070855085,34
+CGMacros-003,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.5803802415035086,0.0002573681700973637,35
+CGMacros-004,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6989843375014285,1.7289918433900036e-140,952
+CGMacros-004,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.806196174472374,0.0,14248
+CGMacros-004,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.2027119124593164,8.389604133150855e-28,2849
+CGMacros-004,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.11496992004005321,0.37761572429044676,61
+CGMacros-004,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.03254399386127971,0.8033729455465999,61
+CGMacros-004,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.08114259691099901,0.5341657468579148,61
+CGMacros-004,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.18018498237637487,0.16465678402546624,61
+CGMacros-004,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.12201654447846232,6.69043206522121e-11,2843
+CGMacros-004,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.2156559641546525,0.09508042804334356,61
+CGMacros-004,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.29102893220235776,0.02287692953712298,61
+CGMacros-004,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.25045977139130166,0.05155421052719316,61
+CGMacros-004,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3579791997096813,0.004617214003644468,61
+CGMacros-005,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7308352860405131,4.4325343671628446e-160,954
+CGMacros-005,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.859096365822612,0.0,14289
+CGMacros-005,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.1843650210454412,3.022319762534167e-23,2855
+CGMacros-005,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.2270835175078864,0.12909654821017028,46
+CGMacros-005,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.335383214715245,0.02269588556417882,46
+CGMacros-005,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.20622890875716215,0.16911524205835585,46
+CGMacros-005,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.11002643357247482,0.4666667301944102,46
+CGMacros-005,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.27613663492107055,4.983721457101307e-51,2849
+CGMacros-005,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.37216540285272626,0.010868446287875911,46
+CGMacros-005,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,-0.2999263679888613,0.04285674597278545,46
+CGMacros-005,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,-0.20365251102293505,0.17462186050698264,46
+CGMacros-005,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.10819346319499303,0.47416784908906684,46
+CGMacros-006,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.28329324930635597,1.5207284348784424e-36,1908
+CGMacros-006,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8385716078764949,0.0,14350
+CGMacros-006,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.26301706447740075,2.1903863936155404e-46,2855
+CGMacros-006,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.14221464608538253,0.3943662258061209,38
+CGMacros-006,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.08344361024909455,0.6184360232413879,38
+CGMacros-006,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.07116612752413724,0.6711415586118901,38
+CGMacros-006,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.08772558498556124,0.6004707560737041,38
+CGMacros-006,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.1681972668449327,1.5923965945558981e-19,2849
+CGMacros-006,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.39222788855042645,0.014868142799732299,38
+CGMacros-006,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.07553842612023297,0.6521769509160136,38
+CGMacros-006,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.41787681658954456,0.009038986374689393,38
+CGMacros-006,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3360619968948993,0.03912710044149058,38
+CGMacros-007,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.3705351216705293,9.826252940419206e-16,439
+CGMacros-008,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.4158555776707112,3.4679192177685745e-41,954
+CGMacros-008,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7718765299799634,0.0,14442
+CGMacros-008,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.2313393087377211,5.3915465676255325e-36,2855
+CGMacros-008,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.11183203575523135,0.5562957412664449,30
+CGMacros-008,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.2958024862911646,0.11249359539578438,30
+CGMacros-008,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.06837283304915243,0.7195942031248008,30
+CGMacros-008,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.05721353401540447,0.7639469520154039,30
+CGMacros-008,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.18110345878872697,1.9761285889420959e-22,2849
+CGMacros-008,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.18655217224556075,0.3236075172683248,30
+CGMacros-008,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,-0.3190732208960447,0.08568260502363434,30
+CGMacros-008,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4387885823835705,0.015279795044221339,30
+CGMacros-008,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,-0.00893861979649895,0.9626094039881787,30
+CGMacros-009,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.46162227323162647,2.5977825702641936e-51,950
+CGMacros-009,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7490760164569413,0.0,14188
+CGMacros-009,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.2138272844715257,8.697615012759229e-31,2846
+CGMacros-009,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.34753129420961515,0.03252466468223549,38
+CGMacros-009,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.058107223397794214,0.7289486627859243,38
+CGMacros-009,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.06415344395817855,0.701977571437793,38
+CGMacros-009,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.21551717255794217,0.1937756623706994,38
+CGMacros-009,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.26126923504243543,1.5290232536024683e-45,2840
+CGMacros-009,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.4022732436525108,0.012289459603110588,38
+CGMacros-009,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.13223645740196793,0.42870220286902816,38
+CGMacros-009,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,-0.09202185644595016,0.5826764024673758,38
+CGMacros-009,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3998699474547563,0.012869026891030848,38
+CGMacros-010,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.5557728805584998,4.8877612229888145e-155,1907
+CGMacros-010,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7795735663789047,0.0,15151
+CGMacros-010,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.17350175473255866,9.870940460952126e-21,2855
+CGMacros-010,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.005649054238496135,0.9716766919707378,42
+CGMacros-010,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.14671284748900032,0.35385164209232234,42
+CGMacros-010,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.11399710171929252,0.4722403672959574,42
+CGMacros-010,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.20896589930416304,0.184144616090521,42
+CGMacros-010,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.1297137042813241,3.65432599885806e-12,2849
+CGMacros-010,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3454597606285101,0.02504186820840959,42
+CGMacros-010,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.4032125041406411,0.008103964866428637,42
+CGMacros-010,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.2912717390453367,0.061276232630493206,42
+CGMacros-010,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.2941165865035722,0.05867435422745067,42
+CGMacros-011,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7147653248083583,3.696020863400078e-298,1907
+CGMacros-011,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.9043545761503977,0.0,14663
+CGMacros-011,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.0903288774768791,1.3365396351767338e-06,2855
+CGMacros-011,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.4829735268205007,0.0021310422302237004,38
+CGMacros-011,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.5449674466911315,0.0004034780011436355,38
+CGMacros-011,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.46556385816137125,0.0032241034294582644,38
+CGMacros-011,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.33582014927917986,0.03927724664902149,38
+CGMacros-011,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.011102271402326383,0.5536140232420644,2849
+CGMacros-011,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.5279998915672753,0.0006568368696164113,38
+CGMacros-011,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.5197750817543313,0.0008243700324727512,38
+CGMacros-011,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4083366504718347,0.010924754103283632,38
+CGMacros-011,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.28964762058991317,0.07774995574263752,38
+CGMacros-012,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8787385518867581,0.0,1908
+CGMacros-012,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8029840931693573,0.0,13410
+CGMacros-012,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.13617964749980638,2.726530601182046e-13,2855
+CGMacros-012,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.07777486923011111,0.6828998309746264,30
+CGMacros-012,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.08422833779366518,0.6523543899291377,31
+CGMacros-012,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.3288650281301461,0.07598702935612173,30
+CGMacros-012,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.29115468689252527,0.11203530166221329,31
+CGMacros-012,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.12423762296606769,2.8485576030150267e-11,2849
+CGMacros-012,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.19644859210709098,0.2981287557081399,30
+CGMacros-012,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2107733164500131,0.25505618013648845,31
+CGMacros-012,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.29389066964826466,0.11494613503121315,30
+CGMacros-012,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3397479586965629,0.06148940494805291,31
+CGMacros-013,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.1698652558206881,1.3050614159895216e-07,954
+CGMacros-013,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7961004468597667,0.0,15217
+CGMacros-013,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.16382168413875658,1.2616077209754488e-18,2855
+CGMacros-013,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.0024855483851272515,0.9880184382832558,39
+CGMacros-013,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.41103765408242715,0.009337909483217865,39
+CGMacros-013,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.2246797451388364,0.16909153482773168,39
+CGMacros-013,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.47299397362636303,0.002358784599563772,39
+CGMacros-013,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.20738370654717891,4.759700983854444e-29,2849
+CGMacros-013,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.25712744416755173,0.1140574221408238,39
+CGMacros-013,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.5453175213843723,0.0003306590476783998,39
+CGMacros-013,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,-0.09652569693824545,0.5588449496812895,39
+CGMacros-013,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.4957155370173786,0.00133200374330408,39
+CGMacros-014,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7626330576689642,2.529104093530015e-182,954
+CGMacros-014,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8511438987768646,0.0,15165
+CGMacros-014,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.20934272532012918,1.2221324740020874e-29,2855
+CGMacros-014,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.05378275573345501,0.7518900923338674,37
+CGMacros-014,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.1659450733915526,0.3193921050494974,38
+CGMacros-014,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.1694799178188288,0.31595682595488633,37
+CGMacros-014,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.434573928972213,0.006403891414369732,38
+CGMacros-014,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.18234577021424653,1.0098041806323556e-22,2849
+CGMacros-014,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.4215355073391677,0.009364799580409438,37
+CGMacros-014,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.47546060353759456,0.002554662412918021,38
+CGMacros-014,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.5307520653444383,0.0007263469213344957,37
+CGMacros-014,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.6261602273578148,2.6127527333264372e-05,38
+CGMacros-015,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.3368783274761124,1.4599457573717264e-26,947
+CGMacros-015,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7442896048074018,0.0,14909
+CGMacros-015,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-9.027814768456966e-05,0.9961609972204972,2843
+CGMacros-015,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.207496482044799,0.15702784091690297,48
+CGMacros-015,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.08434483423623695,0.5644796934773512,49
+CGMacros-015,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.24266978838150957,0.0965342777591331,48
+CGMacros-015,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.24810597202830456,0.08563298142200017,49
+CGMacros-015,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.06959470561848341,0.00020748682334216203,2837
+CGMacros-015,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.20262500216376247,0.16721797399099797,48
+CGMacros-015,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.30463255497011754,0.03331628797257836,49
+CGMacros-015,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.19591872290952586,0.18202023713169266,48
+CGMacros-015,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.426903604184913,0.002220417581246648,49
+CGMacros-016,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.5776113413563704,5.457667032911354e-86,954
+CGMacros-016,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8519350145926597,0.0,15235
+CGMacros-016,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.32724378204482507,3.0643006024143703e-72,2855
+CGMacros-016,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.30754919371585654,0.11137031484976699,28
+CGMacros-016,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.2942928355479601,0.12847448757301722,28
+CGMacros-016,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.03469220985514585,0.8608778401762328,28
+CGMacros-016,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2334840790251086,0.23178722080953118,28
+CGMacros-016,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.2752584643556985,1.0541512837550436e-50,2849
+CGMacros-016,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3399941291023525,0.08270807076584258,27
+CGMacros-016,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.30447883640415707,0.11517246245925977,28
+CGMacros-016,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.04453400968368665,0.8254312908135366,27
+CGMacros-016,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.14453109322982136,0.4630800452865673,28
+CGMacros-017,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6357253966636139,3.757264059395244e-109,954
+CGMacros-017,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.735930597857198,0.0,13793
+CGMacros-017,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.00792975275502583,0.6719120826081535,2855
+CGMacros-017,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.20124274417342095,0.17988821782784006,46
+CGMacros-017,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.2394848215431937,0.10495212618755376,47
+CGMacros-017,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.2890392177908486,0.051389139205897175,46
+CGMacros-017,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.3074745247199054,0.035517741994724586,47
+CGMacros-017,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.027976674759706076,0.1354579802587061,2849
+CGMacros-017,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.4323114799048374,0.0026965265999707323,46
+CGMacros-017,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.48490731202485765,0.0005517086033151156,47
+CGMacros-017,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4828033464713384,0.0006780423968423076,46
+CGMacros-017,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.4306952202984175,0.002510688580094494,47
+CGMacros-018_serie1,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7191208120974025,9.682397013306248e-11,60
+CGMacros-018_serie1,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8478618202692184,1.4508429154533924e-256,925
+CGMacros-018_serie1,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.0806093106953303,0.2917546040781587,173
+CGMacros-018_serie1,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.314514054137649,3.481684399166309e-05,167
+CGMacros-018_serie2,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7876342373629843,0.0,1747
+CGMacros-018_serie2,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8248745894963345,0.0,13087
+CGMacros-018_serie2,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.03551298238677541,0.0694111345424675,2615
+CGMacros-018_serie2,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.1679249145391159,0.32048268648677675,37
+CGMacros-018_serie2,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.16482523101088864,0.32962458251888027,37
+CGMacros-018_serie2,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.2316978259381534,0.16763256318963504,37
+CGMacros-018_serie2,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.23232395575074782,0.1664548609233827,37
+CGMacros-018_serie2,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.03970896285423657,0.0425106664452121,2610
+CGMacros-018_serie2,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.2546801782429761,0.12821042091125032,37
+CGMacros-018_serie2,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.17678918496178672,0.2952239799938214,37
+CGMacros-018_serie2,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.31386390608478765,0.05852448064214415,37
+CGMacros-018_serie2,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.22217666506077643,0.18628404923228567,37
+CGMacros-019,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.4026206751898604,1.916733184065422e-38,953
+CGMacros-019,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8310463415892845,0.0,14148
+CGMacros-019,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.147773344575015,2.1594350218216577e-15,2852
+CGMacros-019,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.14644329061671718,0.3428458786322156,44
+CGMacros-019,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.12496931328339043,0.4189384617462759,44
+CGMacros-019,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.27408523964187664,0.07179929380943553,44
+CGMacros-019,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2829913326326939,0.06269294506663536,44
+CGMacros-019,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.05723381440494434,0.0022546068220464554,2846
+CGMacros-019,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.24100720389426736,0.11503310615449575,44
+CGMacros-019,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2463464968950771,0.10696459910362621,44
+CGMacros-019,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4597035021402006,0.0016934115890215758,44
+CGMacros-019,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.43582394805232366,0.003105442024117434,44
+CGMacros-020,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8577916695500344,2.0599548132020826e-277,954
+CGMacros-020,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7897839167170163,0.0,14386
+CGMacros-020,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.20880993205917764,1.708203112031083e-29,2855
+CGMacros-020,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.10085554002226288,0.5357702358789795,40
+CGMacros-020,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.05959497834129263,0.7148988056917044,40
+CGMacros-020,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.011609345578304293,0.943319766578428,40
+CGMacros-020,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.36795669198263403,0.019491910989516754,40
+CGMacros-020,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.14705637523417422,3.0519569918870576e-15,2849
+CGMacros-020,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.23467798571851559,0.14494706387965747,40
+CGMacros-020,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.35738187327065396,0.0235769058075835,40
+CGMacros-020,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.3391158234248599,0.03230391397917583,40
+CGMacros-020,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.6289137169515014,1.3847833572238456e-05,40
+CGMacros-021,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.5420934454361652,5.5952659337957396e-74,954
+CGMacros-021,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8361186954637808,0.0,15137
+CGMacros-021,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.21223648750522037,1.9512705980397275e-30,2855
+CGMacros-021,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.07054574568219767,0.6782133584618626,37
+CGMacros-021,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.22186941933108456,0.18064790628721883,38
+CGMacros-021,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.00047534299435913964,0.9977721858411226,37
+CGMacros-021,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.12162787248550311,0.4669650867926277,38
+CGMacros-021,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.157981746180195,2.212539601989311e-17,2849
+CGMacros-021,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3337897742549679,0.04348765590084883,37
+CGMacros-021,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.39197296326707676,0.014939105444988773,38
+CGMacros-021,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.32156953568395796,0.0522833928064382,37
+CGMacros-021,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.1923672572944747,0.24724596694141543,38
+CGMacros-022,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.4415321376807538,7.324558046903841e-92,1908
+CGMacros-022,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8215457164615224,0.0,14546
+CGMacros-022,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.13928261247738352,7.698069400413641e-14,2855
+CGMacros-022,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.0813814512610378,0.617631650760236,40
+CGMacros-022,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.2640966702739317,0.0952128470398967,41
+CGMacros-022,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.22692723750476665,0.15908637129595035,40
+CGMacros-022,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.3962806036705824,0.010319639487108862,41
+CGMacros-022,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.09379310861460347,5.298801323015022e-07,2849
+CGMacros-022,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.28016484871924946,0.07994803210028475,40
+CGMacros-022,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.3105221309157688,0.04815791302737319,41
+CGMacros-022,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4230696187677854,0.006529897511639445,40
+CGMacros-022,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.36913263720113615,0.017545857545258135,41
+CGMacros-023,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8936104294256131,0.0,1908
+CGMacros-023,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8530703598945139,0.0,15148
+CGMacros-023,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.045788727805667236,0.014412904178554365,2855
+CGMacros-023,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.16427937754285307,0.30471961637133826,41
+CGMacros-023,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.16418267332289196,0.29881131396017035,42
+CGMacros-023,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.26234971032503845,0.0975040939994532,41
+CGMacros-023,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.31886046154990155,0.0395751052203742,42
+CGMacros-023,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.1103812640807419,3.4800126654646696e-09,2849
+CGMacros-023,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.16181216526623396,0.31213985005155725,41
+CGMacros-023,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.10833570794143453,0.49465640292812607,42
+CGMacros-023,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.14412419578369015,0.36864622241640066,41
+CGMacros-023,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.10122296435444007,0.5235751324298787,42
+CGMacros-026,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8095501167633148,2.3848452372612553e-217,932
+CGMacros-026,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7730350652551287,0.0,15235
+CGMacros-026,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.015019017005774349,0.44371233363204954,2603
+CGMacros-026,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.20504493526118517,0.2602611660063304,32
+CGMacros-026,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.09613098743580342,0.5770325292700285,36
+CGMacros-026,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.20999535895546753,0.2486765022556896,32
+CGMacros-026,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2775394637259486,0.10124567762226307,36
+CGMacros-026,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.04024616827007062,0.04005423714624394,2603
+CGMacros-026,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.22437143274989652,0.21699697200912338,32
+CGMacros-026,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2975595981005608,0.07798179139466122,36
+CGMacros-026,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.25324593682973123,0.16196366900459114,32
+CGMacros-026,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3492500793534633,0.036816063688533594,36
+CGMacros-027,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6522029056492857,1.1663624840482215e-116,954
+CGMacros-027,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.861263124111352,0.0,14506
+CGMacros-027,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.009238863478752824,0.6216966718552542,2855
+CGMacros-027,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.1871343248424935,0.3050942160224544,32
+CGMacros-027,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.24798745504172584,0.16407471471094828,33
+CGMacros-027,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.5522767192765412,0.001047972051879153,32
+CGMacros-027,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.6285373098313661,8.967155278917206e-05,33
+CGMacros-027,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.026554163082142403,0.15648774688383804,2849
+CGMacros-027,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.36173157176450466,0.04191903418382602,32
+CGMacros-027,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2941910797954349,0.09654434156293618,33
+CGMacros-027,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.5388605926128001,0.0014625448547138165,32
+CGMacros-027,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.5359620471430253,0.0013057134066884009,33
+CGMacros-028,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8145128924838168,0.0,1908
+CGMacros-028,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8579121012884962,0.0,14318
+CGMacros-028,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.0572691182748652,0.002204610530491081,2855
+CGMacros-028,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.047874800669022666,0.7913429726784977,33
+CGMacros-028,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.019235276346135182,0.9140158947899171,34
+CGMacros-028,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.36284557034223075,0.03795487547169959,33
+CGMacros-028,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.3061018499326984,0.0782990269160288,34
+CGMacros-028,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.014256118068629252,0.4468723414341137,2849
+CGMacros-028,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.2427710182939053,0.17341681574329473,33
+CGMacros-028,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2546761260206202,0.14607085805399994,34
+CGMacros-028,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4505388389600619,0.008509529757111224,33
+CGMacros-028,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.41272224529041995,0.015275022572284226,34
+CGMacros-029,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7036474065837875,3.571299764454059e-285,1908
+CGMacros-029,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8538174624723436,0.0,15096
+CGMacros-029,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.15909190995238562,1.215787232972337e-17,2855
+CGMacros-029,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.2544442533437042,0.17481734634197385,30
+CGMacros-029,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.37736418249525205,0.03980257695391908,30
+CGMacros-029,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.40246212004998405,0.027461191985557243,30
+CGMacros-029,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.5101726929895133,0.003973677880250966,30
+CGMacros-029,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.12488529562942323,2.2445927063708732e-11,2849
+CGMacros-029,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.354456377517009,0.05462245999594167,30
+CGMacros-029,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.38436138061408803,0.035984577432568464,30
+CGMacros-029,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.4558601679485301,0.01135114447797028,30
+CGMacros-029,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.4234679164323818,0.019711134729854998,30
+CGMacros-030,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7184590402120966,2.9088900670067867e-152,954
+CGMacros-030,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.6356097391607046,0.0,12435
+CGMacros-030,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.04600765258692462,0.015507896721435592,2767
+CGMacros-030,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.02490199134218078,0.9080493326256648,24
+CGMacros-030,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.18733270669308255,0.3698870150852631,25
+CGMacros-030,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.19357861608626803,0.36476288649831135,24
+CGMacros-030,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,-0.0021248001739154676,0.991957406808404,25
+CGMacros-030,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.1060375975746604,2.256771693255535e-08,2767
+CGMacros-030,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.0620365398349065,0.7733705492374685,24
+CGMacros-030,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,-0.17829005095672515,0.39384039416082184,25
+CGMacros-030,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.07776411331417857,0.717968507503634,24
+CGMacros-030,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.015450120139635674,0.9415675647413703,25
+CGMacros-031,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.5499909281454597,2.6171874175749222e-73,913
+CGMacros-031,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8458680976007547,0.0,13587
+CGMacros-031,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.09431284482281237,7.878674901880625e-07,2732
+CGMacros-031,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.2827781605258939,0.05981285996009787,45
+CGMacros-031,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.33559868596652426,0.024213978171039208,45
+CGMacros-031,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.30951702396612746,0.03854734665554854,45
+CGMacros-031,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.4094871326507207,0.005217962856690467,45
+CGMacros-031,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.04497351547089685,0.018862953548346082,2726
+CGMacros-031,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.2257044915367466,0.13601981090301885,45
+CGMacros-031,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.4258621740810728,0.0035380354745914925,45
+CGMacros-031,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.21651953751565414,0.15312067568083487,45
+CGMacros-031,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.34038164345277805,0.02214417420042897,45
+CGMacros-032,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.2916434103940893,2.3305693809734784e-19,913
+CGMacros-032,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.811056449824148,0.0,6646
+CGMacros-032,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.009831476532877102,0.6142857828233974,2630
+CGMacros-032,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.23583180962069503,0.3461408620195555,18
+CGMacros-032,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.1473188062305697,0.5596592936812705,18
+CGMacros-032,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.0263069296840303,0.9174745741122631,18
+CGMacros-032,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.24307603028044,0.33108526841439756,18
+CGMacros-032,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.08290839123339196,2.0705502241433093e-05,2630
+CGMacros-032,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.05682296811750545,0.8227944800012295,18
+CGMacros-032,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.1304823712327903,0.6058108731491115,18
+CGMacros-032,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.2693829599644703,0.2797028089786414,18
+CGMacros-032,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.30831721589683514,0.21321623608486975,18
+CGMacros-033,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.9023850462175487,0.0,952
+CGMacros-033,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8093637569758693,0.0,10945
+CGMacros-033,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.18578304655261924,1.400536742398255e-20,2465
+CGMacros-033,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.14774446413333522,0.4276792152920129,31
+CGMacros-033,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.1441014499492256,0.43928466699424473,31
+CGMacros-033,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.04877591213169012,0.7944259193277097,31
+CGMacros-033,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,-0.06355676580002254,0.7341044537586003,31
+CGMacros-033,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.18473366091836282,2.31228572462586e-20,2465
+CGMacros-033,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.05562428825679474,0.7703271237529571,30
+CGMacros-033,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.05970495468401903,0.7496907229348737,31
+CGMacros-033,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.1641921761796953,0.385936518277777,30
+CGMacros-033,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.09330164104858568,0.6176207602235363,31
+CGMacros-034,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.49279269602611947,1.6236615078270689e-59,954
+CGMacros-034,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.47765544322239406,0.0,8100
+CGMacros-034,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.01996054980194941,0.2863444286950433,2855
+CGMacros-034,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.03338048097798838,0.8217977641023178,48
+CGMacros-034,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.18742033285376164,0.20209806450049292,48
+CGMacros-034,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.09671640986944843,0.5131480142200759,48
+CGMacros-034,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2436739773934547,0.09512043421911598,48
+CGMacros-034,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.002852968663346407,0.8790184607760654,2849
+CGMacros-034,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.153798163437051,0.29663211357051855,48
+CGMacros-034,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.22940416834364277,0.11677328578393523,48
+CGMacros-034,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.21142783472865934,0.14914211512288741,48
+CGMacros-034,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.2894575571204571,0.04598796698698143,48
+CGMacros-035,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8648700038462813,3.4830485546442145e-287,954
+CGMacros-035,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8415939506533822,0.0,12111
+CGMacros-035,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.05857484310150128,0.0017415247383731135,2855
+CGMacros-035,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.20893434470075858,0.3386927636654993,23
+CGMacros-035,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.26927099317042874,0.2140639242038571,23
+CGMacros-035,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.037906764515044086,0.8636595267162748,23
+CGMacros-035,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.17751939549754192,0.41774333560824617,23
+CGMacros-035,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.09444202255946979,4.4176849886609857e-07,2849
+CGMacros-035,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.374486140501837,0.07831837750121834,23
+CGMacros-035,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.2932061925633557,0.1745220654088473,23
+CGMacros-035,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.21092894465016915,0.33399621036240523,23
+CGMacros-035,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.2179100444731062,0.3178668656793429,23
+CGMacros-036,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.9594076939196856,0.0,954
+CGMacros-036,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7088879415317607,0.0,14451
+CGMacros-036,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.31676030537760735,1.4690084734184761e-67,2855
+CGMacros-036,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.03438836522819527,0.8620847703388295,28
+CGMacros-036,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.05942309511432143,0.7638972064750317,28
+CGMacros-036,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.15433498314414035,0.43295447583185087,28
+CGMacros-036,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.13617792630365327,0.4895892715610286,28
+CGMacros-036,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.3086287446029214,6.325912442930234e-64,2849
+CGMacros-036,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.12104704560324735,0.5394922621591858,28
+CGMacros-036,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.18129546148304546,0.3558661755798035,28
+CGMacros-036,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.1562607315969193,0.4271652375730095,28
+CGMacros-036,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.24099366351919244,0.21668707412022287,28
+CGMacros-038,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7925561060561607,0.0,1907
+CGMacros-038,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7393575712288138,0.0,14378
+CGMacros-038,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.13464917810366084,5.034220538310779e-13,2855
+CGMacros-038,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.05191988749320792,0.7777838084050933,32
+CGMacros-038,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.043454668452379094,0.8133177835681802,32
+CGMacros-038,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.16869396266405046,0.35603391016936525,32
+CGMacros-038,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2618087943806442,0.14776311821385457,32
+CGMacros-038,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.14252779983379013,2.117580477614023e-14,2849
+CGMacros-038,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.21268958929979415,0.24251774120093628,32
+CGMacros-038,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.16533354244291032,0.3658348473551347,32
+CGMacros-038,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.3022403703106636,0.09270727510952859,32
+CGMacros-038,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.2716837428029041,0.13253365384805194,32
+CGMacros-039,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.9012271554391117,0.0,954
+CGMacros-039,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.6770658789402602,0.0,14453
+CGMacros-039,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.14241468767135015,2.0862798185003177e-14,2855
+CGMacros-039,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.07755122715841278,0.6837648776791216,30
+CGMacros-039,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.05669215043804387,0.7619501648988226,31
+CGMacros-039,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.028376987039806085,0.8816700009582534,30
+CGMacros-039,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.2698951304782588,0.14200436416706305,31
+CGMacros-039,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.1480464473587269,1.9820052852271956e-15,2849
+CGMacros-039,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.2489130989160943,0.18470333928338314,30
+CGMacros-039,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.3332688557893579,0.06693891646666845,31
+CGMacros-039,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.33199523903118794,0.07307316340455017,30
+CGMacros-039,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.3749780807544902,0.03766145920487785,31
+CGMacros-041,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8730148409437043,6.850168802987279e-298,950
+CGMacros-041,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8356532155464523,0.0,9882
+CGMacros-041,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.22595739351756552,2.842797293181593e-34,2846
+CGMacros-041,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.03938257595706568,0.7972932587359127,45
+CGMacros-041,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.04380239603934943,0.7751048789316064,45
+CGMacros-041,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.12941963769022596,0.39681985595150937,45
+CGMacros-041,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.11200537451478272,0.4638504147505661,45
+CGMacros-041,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.2582662232494538,1.661261577052154e-44,2840
+CGMacros-041,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.22915587224049186,0.12997599948857697,45
+CGMacros-041,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.25178951534383737,0.09521097343653823,45
+CGMacros-041,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.16904162628137487,0.2669699233002198,45
+CGMacros-041,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.20032998963568618,0.18701547818640638,45
+CGMacros-042,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.8042939399646506,2.0547036329456236e-217,954
+CGMacros-042,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.9085238177707416,0.0,13352
+CGMacros-042,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.16331251167754768,1.6153694799965456e-18,2855
+CGMacros-042,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.3970625989749308,0.08301196019544459,20
+CGMacros-042,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.24173201894889262,0.304524215266345,20
+CGMacros-042,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.2600334967242031,0.26820313863771705,20
+CGMacros-042,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.11514679766966178,0.6288060958487236,20
+CGMacros-042,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.13393018030289983,7.079941046087758e-13,2849
+CGMacros-042,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.010675862035597781,0.9643697797886646,20
+CGMacros-042,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,-0.03507783240267842,0.8832769521821147,20
+CGMacros-042,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.15295110680974763,0.5197181793492556,20
+CGMacros-042,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.27604728977759974,0.23875823997112186,20
+CGMacros-043,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.6422158598210178,5.0874058164296794e-222,1905
+CGMacros-043,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8946995535843153,0.0,14061
+CGMacros-043,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.2894218642934384,3.7246759456973e-56,2852
+CGMacros-043,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.006571283646602922,0.9592346668880616,63
+CGMacros-043,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.0009739668190308462,0.9939056858625315,64
+CGMacros-043,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.1435556757011705,0.261672755534695,63
+CGMacros-043,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.17207092999696488,0.173955968788504,64
+CGMacros-043,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.19242598964482266,3.8509534414766036e-25,2846
+CGMacros-043,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.036051527483395934,0.7790853579580963,63
+CGMacros-043,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.07005285050004732,0.5822824678405574,64
+CGMacros-043,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.17478535109566706,0.17065329186772873,63
+CGMacros-043,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.21507393796800597,0.08787480186390523,64
+CGMacros-044,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7491340321554674,0.0,1908
+CGMacros-044,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.826534313976788,0.0,12272
+CGMacros-044,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.07409448700313262,7.409275919775442e-05,2855
+CGMacros-044,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.19689596650968558,0.21137251924215597,42
+CGMacros-044,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.04968021286437156,0.7517211276273306,43
+CGMacros-044,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.026048544921469026,0.8699303457640635,42
+CGMacros-044,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.4550222311817549,0.0021716134595641946,43
+CGMacros-044,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.11424380973247159,9.641479978202385e-10,2849
+CGMacros-044,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3443761374160798,0.025531620122394492,42
+CGMacros-044,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.3369693674086885,0.027132038717360894,43
+CGMacros-044,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.46501621198803844,0.0019168363914131316,42
+CGMacros-044,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.48453608428838135,0.000992758005912312,43
+CGMacros-045,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.9441886012301411,0.0,913
+CGMacros-045,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7412720290310049,0.0,14602
+CGMacros-045,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.042514436617392126,0.026272821676010475,2732
+CGMacros-045,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.05912181402824575,0.752059021361112,31
+CGMacros-045,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.15154695426417175,0.40768785915286443,32
+CGMacros-045,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.03442023419452664,0.8541526888271647,31
+CGMacros-045,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.15585732422762824,0.39432096887768486,32
+CGMacros-045,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.029531770538509125,0.12319136488102168,2726
+CGMacros-045,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.21879301596046383,0.2369988384779639,31
+CGMacros-045,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.21179667082172382,0.24454748477924915,32
+CGMacros-045,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.18384454499194225,0.3221688881463618,31
+CGMacros-045,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.21731700107772012,0.23217924442112803,32
+CGMacros-046,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.9244664510691147,0.0,950
+CGMacros-046,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8080636705030816,0.0,13642
+CGMacros-046,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.08405870237691952,7.032473810805367e-06,2849
+CGMacros-046,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.18690649760615302,0.3316282580566092,29
+CGMacros-046,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,-0.07797125247194142,0.6876609690142189,29
+CGMacros-046,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,-0.01584568163803258,0.9349782964622733,29
+CGMacros-046,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.16227444924613685,0.40033084840358446,29
+CGMacros-046,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.06303531359020394,0.0007712936781212107,2843
+CGMacros-046,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,-0.1268736159247065,0.5119270339967839,29
+CGMacros-046,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,-0.04158466798503543,0.8304050153725432,29
+CGMacros-046,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.07401080790193805,0.7027930914978562,29
+CGMacros-046,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.17178428322389636,0.37290540333758226,29
+CGMacros-047,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.7819397874204034,0.0,1908
+CGMacros-047,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7932944920894924,0.0,14442
+CGMacros-047,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.01639702566891442,0.3811364004973472,2855
+CGMacros-047,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.1388630877357433,0.4725113696173132,29
+CGMacros-047,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.07722866911506579,0.690489478290301,29
+CGMacros-047,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.20985734614762291,0.2745566147276502,29
+CGMacros-047,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.29579570382212694,0.1192480964695483,29
+CGMacros-047,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,-0.027927294201903808,0.13614946130445774,2849
+CGMacros-047,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.22079478477768807,0.24973674848589122,29
+CGMacros-047,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.20262644806706787,0.2918081063987695,29
+CGMacros-047,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.18688347814703418,0.3316888874755699,29
+CGMacros-047,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.16930900536764423,0.37993585691361376,29
+CGMacros-048,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.628027565023717,2.0417755760126356e-209,1904
+CGMacros-048,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.7694134652300934,0.0,14401
+CGMacros-048,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,0.11653763214366607,4.3162373866030285e-10,2852
+CGMacros-048,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,-0.010184764323494664,0.9536952336198485,35
+CGMacros-048,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.047229018723875575,0.7844489598395643,36
+CGMacros-048,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.04382346657773593,0.8026125879545692,35
+CGMacros-048,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.21867410555431313,0.20008348393740963,36
+CGMacros-048,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.12516393965428727,2.07470721135663e-11,2846
+CGMacros-048,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.3186331215756216,0.06210361411413732,35
+CGMacros-048,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.39331707396276705,0.017636812523958146,36
+CGMacros-048,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.5334290707854241,0.0009677832105000944,35
+CGMacros-048,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.478355115872696,0.0031675462629128176,36
+CGMacros-049,Validación Sensores,Glucosa Dexcom Real,Glucosa Libre Real,0 min,0.93028244020814,0.0,954
+CGMacros-049,Sincronización Wearable,Frecuencia Cardíaca,Calorías Actividad,0 min,0.8292100286594053,0.0,14009
+CGMacros-049,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+30min),30 min,-0.037019571174768943,0.04794576155314541,2855
+CGMacros-049,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+30min),30 min,0.09364605152711017,0.6422199450128879,27
+CGMacros-049,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+30min),30 min,0.16398640208685283,0.40437165632046734,28
+CGMacros-049,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+30min),30 min,0.07153944264202186,0.7228930775987994,27
+CGMacros-049,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+30min),30 min,0.02641753224054033,0.8938468591417115,28
+CGMacros-049,Glucosa vs Ejercicio,Calorías Actividad,Glucosa Dexcom (+60min),60 min,0.010936149485689706,0.5595638446966066,2849
+CGMacros-049,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Dexcom (+60min),60 min,0.08750532683680785,0.664281296076044,27
+CGMacros-049,Glucosa Absoluta vs Nutrición,Carbohidratos Ingeridos,Glucosa Libre (+60min),60 min,0.1716904612452956,0.38234001411476415,28
+CGMacros-049,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Dexcom (+60min),60 min,0.05327891901216439,0.7918317612659492,27
+CGMacros-049,Delta Glucosa vs Nutrición,Carbohidratos Ingeridos,Delta Glucosa Libre (+60min),60 min,0.0940995797209793,0.6338708175332666,28
