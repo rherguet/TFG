@@ -1,6 +1,0 @@
-user_id,rows,nulos_glucose,ceros_glucose,nulos_heart_rate,ceros_heart_rate,nulos_heart_rate_gps,ceros_heart_rate_gps,nulos_speed,ceros_speed,nulos_latitude,ceros_latitude,nulos_longitude,ceros_longitude,nulos_accX,ceros_accX,nulos_accY,ceros_accY,nulos_accZ,ceros_accZ
-CIS-UCM0005P,266500,264193,0,264193,0,187655,0,2299,38135,2299,0,2299,0,2299,0,2299,0,2299,0
-CIS-UCM0006P,130855,128314,0,128314,0,7633,0,2536,5578,2536,0,2536,0,2536,0,2536,0,2536,0
-CIS-UCM0007P,78911,78410,0,78410,0,3279,0,499,10536,499,0,499,0,499,0,499,0,499,0
-U10,257376,253786,0,256396,0,82897,0,3964,50272,3964,0,3964,0,3964,0,3964,0,3964,0
-U12,184788,182492,0,182514,0,25461,0,3198,39734,3198,0,3198,0,3198,0,3198,0,3198,0

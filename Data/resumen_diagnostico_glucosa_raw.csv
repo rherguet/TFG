@@ -1,9 +1,0 @@
-archivo,os,rows,nulos_glucose,ceros_glucose,nulos_heart_rate,ceros_heart_rate,ceros_steps,ceros_calories
-CIS-UCM0001P.csv,0,8343,2643,0,233,0,0,0
-CIS-UCM0004P.csv,0,14699,6422,0,123,0,0,0
-CIS-UCM0005P.csv,0,2307,0,0,0,0,1776,1667
-CIS-UCM0006P.csv,0,2541,0,0,0,0,2218,2110
-CIS-UCM0007P.csv,0,501,0,0,0,0,409,327
-U10.csv,1,3973,0,748,0,3630,3462,3971
-U12.csv,1,3205,0,1080,0,2486,3194,3194
-U13.csv,1,5785,0,3073,0,5311,5769,5785
